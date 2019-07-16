@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("aaa");
 		System.out.println("abc");
 		System.out.println("def");
-		System.out.println("github")
+		System.out.println("github");
 
 	}
 
